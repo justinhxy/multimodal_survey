@@ -1,4 +1,4 @@
-![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/73897c93-a1d7-4b96-80ee-0680b32128af)# 多模态学习调研
+# 多模态学习调研
 
 By[Xiangyang HU](232050209@hdu.edu.cn)
 
