@@ -100,8 +100,175 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 [Trusted Multi-View Classification](https://openreview.net/forum?id=OOsR8BzCnl5), ICLR 2021 [[code]](https://github.com/hanmenghan/TMC)
 
-### Multimodal Alignment
+### 多模态对齐（Multimodal Alignment）
 
 [Reconsidering Representation Alignment for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Trosten_Reconsidering_Representation_Alignment_for_Multi-View_Clustering_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/DanielTrosten/mvc)
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
+
+### 多模态预训练（Multimodal Pretraining）
+[Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
+
+[Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
+
+[Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), arXiv 2021
+
+
+
+### 多模态翻译（Multimodal Translation）
+
+[Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092), ICML 2021 [[code]](https://github.com/openai/DALL-E)
+
+
+### 跨模态检索（Crossmodal Retrieval）
+
+[Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
+
+[MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
+
+
+### 多模态共同学习（Multimodal Co-learning）
+
+[Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), ICML 2021
+
+[Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions](https://arxiv.org/abs/2107.13782), arXiv 2021
+
+
+### 模态缺失（Missing or Imperfect Modalities）
+
+[A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://arxiv.org/abs/2102.03014), AISTATS 2021 [[code]](https://github.com/chl8856/DeepIMV)
+
+[SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
+
+
+
+### 多模态模型分析（Analysis of Multimodal Models）
+
+[M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis](https://arxiv.org/abs/2107.08264), IEEE TVCG 2022
+
+[Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers](https://arxiv.org/abs/2102.00529), TACL 2021
+
+
+
+### 知识图谱（Knowledge Graphs and Knowledge Bases）
+
+[MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485), ESWC 2019
+
+[Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs](https://arxiv.org/abs/1709.02314), AKBC 2019
+
+
+### 可解释的学习（Intepretable Learning）
+
+[Multimodal Explanations by Predicting Counterfactuality in Videos](https://arxiv.org/abs/1812.01263), CVPR 2019
+
+[Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](https://arxiv.org/abs/1802.08129), CVPR 2018 [[code]](https://github.com/Seth-Park/MultimodalExplanations)
+
+[Do Explanations make VQA Models more Predictable to a Human?](https://arxiv.org/abs/1810.12366), EMNLP 2018
+
+
+
+### 生成学习（Generative Learning）
+
+[MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises](https://openreview.net/forum?id=sdQGxouELX), ICLR 2023 [[code]](https://github.com/epalu/mmvaeplus)
+
+[On the Limitations of Multimodal VAEs](https://arxiv.org/abs/2110.04121), ICLR 2022 [[code]](https://openreview.net/attachment?id=w-CPUXXrAj&name=supplementary_material)
+
+[Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV), ICLR 2021 [[code]](https://github.com/thomassutter/MoPoE)
+
+
+
+### 半监督学习（Semi-supervised Learning）
+
+[Semi-supervised Vision-language Mapping via Variational Learning](https://ieeexplore.ieee.org/document/7989160), ICRA 2017
+
+[Semi-supervised Multimodal Hashing](https://arxiv.org/abs/1712.03404), arXiv 2017
+
+
+
+### 自监督学习（Self-supervised Learning）
+
+[DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021 Datasets & Benchmarks Track [[code]](https://github.com/alextamkin/dabs)
+
+[Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://arxiv.org/abs/1911.12667), NeurIPS 2020 [[code]](https://github.com/HumamAlwassel/XDC)
+
+[Self-Supervised MultiModal Versatile Networks](https://arxiv.org/abs/2006.16228), NeurIPS 2020 [[code]](https://tfhub.dev/deepmind/mmv/s3d/1)
+
+[Labelling Unlabelled Videos from Scratch with Multi-modal Self-supervision](https://arxiv.org/abs/2006.13662), NeurIPS 2020 [[code]](https://www.robots.ox.ac.uk/~vgg/research/selavi/)
+
+
+
+### 语言模型（Language Models）
+
+[Neural Language Modeling with Visual Features](https://arxiv.org/abs/1903.02930), arXiv 2019
+
+[Learning Multi-Modal Word Representation Grounded in Visual Context](https://arxiv.org/abs/1711.03483), AAAI 2018
+
+
+### 对抗学习（Adversarial Attacks）
+
+[Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models](https://nips2018vigil.github.io/static/papers/accepted/33.pdf), NeurIPS Workshop on Visually Grounded Interaction and Language 2018
+
+[Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](https://arxiv.org/abs/1712.02051), ACL 2018 [[code]](https://github.com/huanzhang12/ImageCaptioningAttack)
+
+[Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/abs/1709.08693), CVPR 2018
+
+
+### 少样本学习（Few-Shot Learning）
+
+[Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions](https://www.aclweb.org/anthology/2020.acl-main.625/), ACL 2020
+
+[Shaping Visual Representations with Language for Few-shot Classification](https://arxiv.org/abs/1911.02683), ACL 2020
+
+
+
+### 公平公正问题（Bias and Fairness）
+
+[Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666), arXiv 2021
+
+[Towards Debiasing Sentence Representations](https://arxiv.org/abs/2007.08100), ACL 2020 [[code]](https://github.com/pliang279/sent_debias)
+
+[FairCVtest Demo: Understanding Bias in Multimodal Learning with a Testbed in Fair Automatic Recruitment](https://arxiv.org/abs/2009.07025), ICMI 2020 [[code]](https://github.com/BiDAlab/FairCVtest)
+
+
+
+### 人在回路学习（Human in the Loop Learning）
+
+[Human in the Loop Dialogue Systems](https://sites.google.com/view/hlds-2020/home), NeurIPS 2020 workshop
+
+[Human And Machine in-the-Loop Evaluation and Learning Strategies](https://hamlets-workshop.github.io/), NeurIPS 2020 workshop
+
+[Human-centric dialog training via offline reinforcement learning](https://arxiv.org/abs/2010.05848), EMNLP 2020 [[code]](https://github.com/natashamjaques/neural_chat/tree/master/BatchRL)
+
+
+
+## 架构
+
+### Multimodal Transformers
+
+[Pretrained Transformers As Universal Computation Engines](https://arxiv.org/abs/2103.05247), AAAI 2022
+
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206), ICML 2021
+
+[FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482), arXiv 2021
+
+[PolyViT: Co-training Vision Transformers on Images, Videos and Audio](https://arxiv.org/abs/2111.12993), arXiv 2021
+
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), NeurIPS 2021 [[code]](https://github.com/google-research/google-research/tree/master/vatt)
+
+[Parameter Efficient Multimodal Transformers for Video Representation Learning](https://arxiv.org/abs/2012.04124), ICLR 2021 [[code]](https://github.com/sangho-vision/avbert)
+
+### Multimodal Memory
+
+[Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation](https://arxiv.org/abs/2111.05759), arXiv 2021
+
+[History Aware Multimodal Transformer for Vision-and-Language Navigation](https://arxiv.org/abs/2110.13309), NeurIPS 2021 [[code]](https://cshizhe.github.io/projects/vln_hamt.html)
+
+[Episodic Memory in Lifelong Language Learning](https://arxiv.org/abs/1906.01076), NeurIPS 2019
+
+[ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection](https://aclanthology.org/D18-1280.pdf), EMNLP 2018
+
+[Multimodal Memory Modelling for Video Captioning](https://arxiv.org/abs/1611.05592), CVPR 2018
+
+[Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417), ICML 2016
+
+## 应用与数据集
