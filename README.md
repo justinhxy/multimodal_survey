@@ -1,17 +1,17 @@
-# Multimodal Learning-------A survey for myself
+# 多模态学习调研
 
 By[Xiangyang HU](232050209@hdu.edu.cn)
 
-## Table of Contents
+## 目录
 
-* [Survey Papers](#survey-papers)
-* [Core Areas](#core-areas)
-  * [Multimodal Representations](#multimodal-representations)
-  * [Multimodal Fusion](#multimodal-fusion)
-  * [Multimodal Alignment](#multimodal-alignment)
-  * [Multimodal Pretraining](#multimodal-pretraining)
-  * [Multimodal Translation](#multimodal-translation)
-  * [Crossmodal Retrieval](#crossmodal-retrieval)
+* [调研/综述](#survey-papers)
+* [核心领域](#core-areas)
+  * [多模态表示（Multimodal Representations）](#multimodal-representations)
+  * [多模态融合（Multimodal Fusion）](#multimodal-fusion)
+  * [多模态对齐（Multimodal Alignment）](#multimodal-alignment)
+  * [多模态预训练（Multimodal Pretraining）](#multimodal-pretraining)
+  * [多模态翻译（Multimodal Translation）](#multimodal-translation)
+  * [跨模态检索（Crossmodal Retrieval）](#crossmodal-retrieval)
   * [Multimodal Co-learning](#multimodal-colearning)
   * [Missing or Imperfect Modalities](#missing-or-imperfect-modalities)
   * [Analysis of Multimodal Models](#analysis-of-multimodal-models)
