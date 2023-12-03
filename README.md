@@ -1,4 +1,4 @@
-# 多模态学习调研
+![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/73897c93-a1d7-4b96-80ee-0680b32128af)# 多模态学习调研
 
 By[Xiangyang HU](232050209@hdu.edu.cn)
 
@@ -15,6 +15,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
   * [多模态共同学习（Multimodal Co-learning）](#multimodal-colearning)
   * [模态缺失（Missing or Imperfect Modalities）](#missing-or-imperfect-modalities)
   * [多模态模型分析（Analysis of Multimodal Models）](#analysis-of-multimodal-models)
+  * [多模态聚类（Cluster of Multimodal Models）](#cluster-of-multimodal-models)
+  * [多模态推理（Reason of Multimodal Models）](#reason-of-multimodal-models)
   * [知识图谱（Knowledge Graphs and Knowledge Bases）](#knowledge-graphs-and-knowledge-bases)
   * [可解释的学习（Intepretable Learning）](#intepretable-learning)
   * [生成学习（Generative Learning）](#generative-learning)
@@ -29,6 +31,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
 * [应用与数据集（Applications and Datasets）](#applications-and-datasets)
+  * [医学（Medicine）]（#medicine）
+
 
  # 文献
 
@@ -96,7 +100,7 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 [MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://doi.org/10.1109/TIP.2022.3193288), TIP 2023 [[code]](https://github.com/tthinking/MATR)
 
-[](), [[code]]()
+[Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models](https://github.com/GeoVectorMatrix/Dif-Fusion), TIP 2023 [[code]](https://doi.org/10.48550/arXiv.2301.08072)
 
 [](), [[code]]()
 
@@ -118,11 +122,15 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ### 多模态对齐（Multimodal Alignment）
 
+[Interpretable Multi-Modal Image Registration Network Based on Disentangled Convolutional Sparse Coding](https://doi.org/10.1109/TIP.2023.3240024), TIP 2023 [[code]](https://github.com/lep990816/Interpretable- Multi-modal-Image-Registration)
+
 [Reconsidering Representation Alignment for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Trosten_Reconsidering_Representation_Alignment_for_Multi-View_Clustering_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/DanielTrosten/mvc)
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
 
 ### 多模态预训练（Multimodal Pretraining）
+[End-to-End Pre-Training With Hierarchical Matching and Momentum Contrast for Text-Video Retrieval](https://doi.org/10.1109/TIP.2023.3275071), TIP 2023 [[code]](https://github.com/cheetah003/HMMC)
+
 [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
 
 [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
@@ -138,6 +146,10 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ### 跨模态检索（Crossmodal Retrieval）
 
+[End-to-End Pre-Training With Hierarchical Matching and Momentum Contrast for Text-Video Retrieval](https://doi.org/10.1109/TIP.2023.3275071), TIP 2023 [[code]](https://github.com/cheetah003/HMMC)
+
+[Efficient Token-Guided Image-Text Retrieval With Consistent Multimodal Contrastive Training](https://github.com/LCFractal/TGDT), TIP 2023 [[code]](https://doi.org/10.1109/TIP.2023.3286710)
+
 [Learning with Noisy Correspondence for Cross-modal Matching](https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf), NeurIPS 2021 [[code]](https://github.com/XLearning-SCU/2021-NeurIPS-NCR)
 
 [MURAL: Multimodal, Multitask Retrieval Across Languages](https://arxiv.org/abs/2109.05125), arXiv 2021
@@ -151,6 +163,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 
 ### 模态缺失（Missing or Imperfect Modalities）
+
+[AutoEncoder-Driven Multimodal Collaborative Learning for Medical Image Synthesis](https://doi.org/10.1007/s11263-023-01791-0), IJCV 2023 [[code]](https://github.com/bcaosudo/AE-GAN)
 
 [GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation](https://doi.org/10.1109/TPAMI.2023.3234553), TPAMI 2023 [[code]](https://github.com/zeroQiaoba/GCNet)
 
@@ -166,7 +180,13 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 [Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers](https://arxiv.org/abs/2102.00529), TACL 2021
 
+### 多模态聚类（Cluster of Multimodal Models）
 
+[Graph Embedding Contrastive Multi-Modal Representation Learning for Clustering](https://doi.org/10.1109/TIP.2023.3240863), TIP 2023 [[code]](https://github.com/xdweixia/GECMC)
+
+### 多模态推理（Reason of Multimodal Models）
+
+[Experts Collaboration Learning for Continual Multi-Modal Reasoning](https://doi.org/10.1109/TIP.2023.3310336), TIP 2023
 
 ### 知识图谱（Knowledge Graphs and Knowledge Bases）
 
@@ -293,7 +313,7 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ## 应用与数据集
 
-### 医学
+### 医学（Medicine）
 
 [Simultaneously-Collected Multimodal Lying Pose Dataset: Enabling In-Bed Human Pose Monitoring](https://doi.org/10.1109/TPAMI.2022.3155712), TPAMI 2023
 
@@ -315,8 +335,26 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 [MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://doi.org/10.1109/TIP.2022.3193288), TIP 2023 [[code]](https://github.com/tthinking/MATR)
 
+[Volumetric Model Genesis in Medical Domain for the Analysis of Multimodality 2-D/3-D Data Based on the Aggregation of Multilevel Features](https://doi.org/10.1109/TII.2023.3252541), TII 2023 
+
+[Integrating Medical Domain Knowledge for Early Diagnosis of Fever of Unknown Origin: An Interpretable Hierarchical Multimodal Neural Network Approach](https://doi.org/10.1109/JBHI.2023.3306041), JBHI 2023 [[code]](https://github.com/Yovosss/iHMNNF)
+
+[Predicting 30-Day All-Cause Hospital Readmission Using Multimodal Spatiotemporal Graph Neural Networks](https://doi.org/10.1109/JBHI.2023.3236888), JBHI 2023 [[code]](https://github.com/tsy935/readmit-stgnn, https://github.com/stanfordmlgroup/MoCo-CXR)
+
+[Multimodal Data Matters: Language Model Pre-Training Over Structured and Unstructured Electronic Health Records](https://doi.org/10.1109/JBHI.2022.3217810), JBHI 2023 
+
+[Real-Time Prediction for Neonatal Endotracheal Intubation Using Multimodal Transformer Network](https://doi.org/10.1109/JBHI.2023.3267521), JBHI 2023 
+
+[Coco-Attention for Tumor Segmentation in Weakly Paired Multimodal MRI Images](https://doi.org/10.1109/JBHI.2023.3262548), JBHI 2023 
+
+[Multimodal Fusion Network for Detecting Hyperplastic Parathyroid Glands in SPECT/CT Images](https://doi.org/10.1109/JBHI.2022.3228603), JBHI 2023 
+
+[The Individualized Prediction of Neurocognitive Function in People Living With HIV Based on Clinical and Multimodal Connectome Data](https://doi.org/10.1109/JBHI.2023.3240508), JBHI 2023 
+
+[AutoEncoder-Driven Multimodal Collaborative Learning for Medical Image Synthesis](https://doi.org/10.1007/s11263-023-01791-0), IJCV 2023 [[code]](https://github.com/bcaosudo/AE-GAN)
 
 ### 识别(Recognition)
+
 #### 人体动作识别
 
 [MMNet: A Model-Based Multimodal Network for Human Action Recognition in RGB-D Videos](https://doi.org/10.1109/TPAMI.2022.3177813), TPAMI 2023
@@ -333,18 +371,12 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 [Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 [[code]](https://doi.org/10.1109/TMM.2021.3132166)
 
 ### 检测（Detection）
-[](), [[code]]()
 
+[ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning](https://doi.org/10.1109/TIP.2022.3231135), TIP 2023 [[code]](https://github.com/ACuOoOoO/ ReDFeat)
 
+[HiDAnet: RGB-D Salient Object Detection via Hierarchical Depth Awareness](https://doi.org/10.1109/TIP.2023.3263111), TIP 2023 [[code]](https://github.com/Zongwei97/HIDANet/)
 
-### 推荐算法（Recommendation）
-
-[DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://doi.org/10.1109/TMM.2021.3138298), TMM 2023 [[code]](https://github.com/wqf321/dualgnn)
-
-
-### 生成（Recommendation）
-
-[](), [[code]]()
+[Weakly Aligned Multimodal Flame Detection for Fire-Fighting Robots](https://doi.org/10.1109/TII.2022.3158668), TII 2023 
 
 ### 预测（Prediction）
 
@@ -355,3 +387,22 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 [Hybrid Graph Convolutional Network With Online Masked Autoencoder for Robust Multimodal Cancer Survival Prediction](https://doi.org/10.1109/TMI.2023.3253760), TMI 2023 [[code]](https://github.com/lin- lcx/HGCN)
 
 [Survival Prediction via Hierarchical Multimodal Co-Attention Transformer: A Computational Histology-Radiology Solution](https://doi.org/10.1109/TMI.2023.3263010), TMI 2023 
+
+### 推荐算法（Recommendation）
+
+[DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://doi.org/10.1109/TMM.2021.3138298), TMM 2023 [[code]](https://github.com/wqf321/dualgnn)
+
+
+### 生成（Recommendation）
+
+[Topic-aware video summarization using multimodal transformer](https://doi.org/10.1016/j.patcog.2023.109578), PR 2023
+
+[GraphRevisedIE: Multimodal information extraction with graph-revised network](https://doi.org/10.1016/j.patcog.2023.109542), PR 2023 [[code]](https://github. com/caop-kie/GraphRevisedIE)
+
+[Crisis event summary generative model based on hierarchical multimodal fusion](https://doi.org/10.1016/j.patcog.2023.109890), PR 2023 
+
+[Sentimental Visual Captioning using Multimodal Transformer](https://doi.org/10.1007/s11263-023-01752-7), IJCV 2023 [[code]](https:// github.com/ezeli/InSentiCap_ext)
+
+### 数据集（dataset）
+
+[Animal Pose Tracking: 3D Multimodal Dataset and Token-based Pose Optimization](https://doi.org/10.1007/s11263-022-01714-5), IJCV 2023 
