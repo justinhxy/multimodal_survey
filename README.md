@@ -5,8 +5,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 ## 目录
 
 * [综述](#综述)
-* [核心领域](#core-areas)
-  * [多模态表示（Multimodal Representations）](#multimodal-representations)
+* [核心领域](#核心领域)
+  * [多模态表示（Multimodal Representations）](#多模态表示-multimodal-representations)
   * [多模态融合（Multimodal Fusion）](#multimodal-fusion)
   * [多模态对齐（Multimodal Alignment）](#multimodal-alignment)
   * [多模态预训练（Multimodal Pretraining）](#multimodal-pretraining)
@@ -31,6 +31,10 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
 * [应用与数据集（Applications and Datasets）](#applications-and-datasets)
+  * [医学（Medicine）](#multimodal-representations)
+  * [识别（Multimodal Fusion）](#multimodal-fusion)
+  * [检测（Multimodal Alignment）](#multimodal-alignment)
+  * [预测（Prediction）](#)
 
 
 
