@@ -6,7 +6,7 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 * [综述](#综述)
 * [核心领域](#核心领域)
-  * [多模态表示（Multimodal Representations）](#多模态表示（multimodal-representations）)
+  * [多模态表示Multimodal Representations](#多模态表示multimodal-representations)
   * [多模态融合（Multimodal Fusion）](#multimodal-fusion)
   * [多模态对齐（Multimodal Alignment）](#multimodal-alignment)
   * [多模态预训练（Multimodal Pretraining）](#multimodal-pretraining)
