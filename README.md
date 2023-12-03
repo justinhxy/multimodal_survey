@@ -4,7 +4,7 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ## 目录
 
-* [综述](#survey-papers)
+* [综述](#综述)
 * [核心领域](#core-areas)
   * [多模态表示（Multimodal Representations）](#multimodal-representations)
   * [多模态融合（Multimodal Fusion）](#multimodal-fusion)
@@ -31,7 +31,7 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
   * [Multimodal Transformers](#multimodal-transformers)
   * [Multimodal Memory](#multimodal-memory)
 * [应用与数据集（Applications and Datasets）](#applications-and-datasets)
-  * [医学（Medicine）]（#医学-medicine）
+
 
 
  # 文献
