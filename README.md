@@ -62,6 +62,10 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ### 多模态表示（Multimodal Representations）
 
+[Decoding Visual Neural Representations by Multimodal Learning of Brain-Visual-Linguistic Features](https://doi.org/10.1109/TPAMI.2023.3263181), TPAMI 2023 [[code]](https://github.com/ChangdeDu/BraVL)
+
+[Universal Multimodal Representation for Language Understanding](https://doi.org/10.1109/TPAMI.2023.3234170), TPAMI 2023
+
 [Identifiability Results for Multimodal Contrastive Learning](https://arxiv.org/abs/2303.09166), ICLR 2023 [[code]](https://github.com/imantdaunhawer/multimodal-contrastive-learning)
 
 [Unpaired Vision-Language Pre-training via Cross-Modal CutMix](https://arxiv.org/abs/2206.08919), ICML 2022.
@@ -85,6 +89,18 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529), arXiv 2021 [[blog]](https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?OCID=msr_blog_VinVL_fb) [[code]](https://github.com/pzzhang/VinVL)
 
 ### 多模态融合（Multimodal Fusion）
+
+[IFSepR: A General Framework for Image Fusion Based on Separate Representation Learning](https://doi.org/10.1109/TMM.2021.3129354), TMM 2023
+
+[F-DARTS: Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion](https://doi.org/10.1109/TMI.2023.3283517), TMI 2023 [[code]](https://github.com/VictorWylde/F-DARTS)
+
+[MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://doi.org/10.1109/TIP.2022.3193288), TIP 2023 [[code]](https://github.com/tthinking/MATR)
+
+[](), [[code]]()
+
+[](), [[code]]()
+
+[Channel Exchanging Networks for Multimodal and Multitask Dense Image Prediction](https://doi.org/10.1109/TPAMI.2022.3211086), TPAMI 2023 [[code]](https://github.com/yikaiw/CEN)
 
 [Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
 
@@ -136,6 +152,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 ### 模态缺失（Missing or Imperfect Modalities）
 
+[GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation](https://doi.org/10.1109/TPAMI.2023.3234553), TPAMI 2023 [[code]](https://github.com/zeroQiaoba/GCNet)
+
 [A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://arxiv.org/abs/2102.03014), AISTATS 2021 [[code]](https://github.com/chl8856/DeepIMV)
 
 [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
@@ -178,6 +196,8 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 
 
 ### 半监督学习（Semi-supervised Learning）
+
+[Supervised Phenotype Discovery From Multimodal Brain Imaging](https://doi.org/10.1109/TMI.2022.3218720), TMI 2023 [[code]](https://github.com/ weikanggong/SuperBigFLICA)
 
 [Semi-supervised Vision-language Mapping via Variational Learning](https://ieeexplore.ieee.org/document/7989160), ICRA 2017
 
@@ -272,3 +292,66 @@ By[Xiangyang HU](232050209@hdu.edu.cn)
 [Dynamic Memory Networks for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417), ICML 2016
 
 ## 应用与数据集
+
+### 医学
+
+[Simultaneously-Collected Multimodal Lying Pose Dataset: Enabling In-Bed Human Pose Monitoring](https://doi.org/10.1109/TPAMI.2022.3155712), TPAMI 2023
+
+[Graph Transformer Geometric Learning of Brain Networks Using Multimodal MR Images for Brain Age Estimation](https://doi.org/10.1109/TMI.2022.3222093), TMI 2023 [[code]](https://github. com/Hongjie97GraphTransfomer_BrainAge)
+
+[Multimodal Transformer for Accelerated MR Imaging](https://doi.org/10.1109/TMI.2022.3180228), TMI 2023 [[code]](https://github.com/chunmeifeng/MTrans)
+
+[Hybrid Graph Convolutional Network With Online Masked Autoencoder for Robust Multimodal Cancer Survival Prediction](https://doi.org/10.1109/TMI.2023.3253760), TMI 2023 [[code]](https://github.com/lin- lcx/HGCN)
+
+[F-DARTS: Foveated Differentiable Architecture Search Based Multimodal Medical Image Fusion](https://doi.org/10.1109/TMI.2023.3283517), TMI 2023 [[code]](https://github.com/VictorWylde/F-DARTS)
+
+[Supervised Phenotype Discovery From Multimodal Brain Imaging](https://doi.org/10.1109/TMI.2022.3218720), TMI 2023 [[code]](https://github.com/ weikanggong/SuperBigFLICA)
+
+[Survival Prediction via Hierarchical Multimodal Co-Attention Transformer: A Computational Histology-Radiology Solution](https://doi.org/10.1109/TMI.2023.3263010), TMI 2023 
+
+[GMRLNet: A Graph-Based Manifold Regularization Learning Framework for Placental Insufficiency Diagnosis on Incomplete Multimodal Ultrasound Data](https://doi.org/10.1109/TMI.2023.3278259), TMI 2023 
+
+[Breath-Hold CBCT-Guided CBCT-to-CT Synthesis via Multimodal Unsupervised Representation Disentanglement Learning](https://doi.org/10.1109/TMI.2023.3247759), TMI 2023 
+
+[MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://doi.org/10.1109/TIP.2022.3193288), TIP 2023 [[code]](https://github.com/tthinking/MATR)
+
+
+### 识别(Recognition)
+#### 人体动作识别
+
+[MMNet: A Model-Based Multimodal Network for Human Action Recognition in RGB-D Videos](https://doi.org/10.1109/TPAMI.2022.3177813), TPAMI 2023
+
+[B2C-AFM: Bi-Directional Co-Temporal and Cross-Spatial Attention Fusion Model for Human Action Recognition](https://doi.org/10.1109/TIP.2023.3308750), TIP 2023 [[code]](https://github.com/gftww/B2C.git)
+
+[Cross-scale cascade transformer for multimodal human action recognition](https://doi.org/10.1016/j.patrec.2023.02.024), PRL 2023
+
+#### 情绪识别
+
+[Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 
+
+#### 生物识别
+[Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 [[code]](https://doi.org/10.1109/TMM.2021.3132166)
+
+### 检测（Detection）
+[](), [[code]]()
+
+
+
+### 推荐算法（Recommendation）
+
+[DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://doi.org/10.1109/TMM.2021.3138298), TMM 2023 [[code]](https://github.com/wqf321/dualgnn)
+
+
+### 生成（Recommendation）
+
+[](), [[code]]()
+
+### 预测（Prediction）
+
+[Micro-Video Popularity Prediction Via Multimodal Variational Information Bottleneck](https://doi.org/10.1109/TMM.2021.3120537), TMM 2023 [[code]](https://github.com/JennyXieJiayi/HMMVED)
+
+#### 癌症生存预测
+
+[Hybrid Graph Convolutional Network With Online Masked Autoencoder for Robust Multimodal Cancer Survival Prediction](https://doi.org/10.1109/TMI.2023.3253760), TMI 2023 [[code]](https://github.com/lin- lcx/HGCN)
+
+[Survival Prediction via Hierarchical Multimodal Co-Attention Transformer: A Computational Histology-Radiology Solution](https://doi.org/10.1109/TMI.2023.3263010), TMI 2023 
