@@ -1,6 +1,6 @@
 # 多模态学习调研
 
-ByXiangyang HU(232050209@hdu.edu.cn)
+By Xiangyang HU(232050209@hdu.edu.cn)
 
 ## 目录
 
