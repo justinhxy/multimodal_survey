@@ -1,4 +1,4 @@
-![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/56bd082d-ccb4-4b21-9fc4-17766c57ea2d)![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/11b9c873-2121-4ccf-83ca-dec73e37e467)![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/a64a9082-9e4b-41d7-bfd5-5695eb6dd6e4)# 多模态学习调研
+# 多模态学习调研
 
 By Xiangyang HU(232050209@hdu.edu.cn)
 
@@ -536,8 +536,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://ojs.aaai.org/index.php/AAAI/article/view/26689), AAAI 2023 [[code]](https://github.com/ICTMCG/FakeSV)
 
-[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https: //doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
+[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
 
-[MEDIC: A Multimodal Empathy Dataset in Counseling] (https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
+[MEDIC: A Multimodal Empathy Dataset in Counseling](https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
 
-[ChinaOpen: A Dataset for Open-world Multimodal Learning](https://doi.org/ 10.1145/3581783.3612156), ACM MM 2023 [[code]](https://ruc-aimc-lab.github.io/ChinaOpen/)
+[ChinaOpen: A Dataset for Open-world Multimodal Learning](https://doi.org/10.1145/3581783.3612156), ACM MM 2023 [[code]](https://ruc-aimc-lab.github.io/ChinaOpen/)
