@@ -221,21 +221,21 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Sensing Micro-Motion Human Patterns using Multimodal mmRadar and Video Signal for Affective and Psychological Intelligence](https://doi.org/10.1145/3581783.3611754), ACM MM 2023 [[code]](https://remap-dataset.github.io/ReMAP)
 
-[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https: //doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
+[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
 
 [MEDIC: A Multimodal Empathy Dataset in Counseling](https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
 
-[Multi-label Emotion Analysis in Conversation via Multimodal Knowledge Distillation](https: //doi.org/10.1145/3581783.3612517), ACM MM 2023 [[code]](https://github.com/devulapa/multimodal-emotion-recognition)
+[Multi-label Emotion Analysis in Conversation via Multimodal Knowledge Distillation](https://doi.org/10.1145/3581783.3612517), ACM MM 2023 [[code]](https://github.com/devulapa/multimodal-emotion-recognition)
 
 [General Debiasing for Multimodal Sentiment Analysis](https://doi.org/10.1145/3581783.3612051), ACM MM 2023 [[code]](https://github.com/Teng-Sun/GEAR)
 
 [Mining High-quality Samples from Raw Data and Majority Voting Method for Multimodal Emotion Recognition](https://doi.org/10.1145/3581783.3612862), ACM MM 2023 
 
-[Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https: //doi.org/10.1145/3581783.3612074), ACM MM 2023 [[code]](https://github.com/Jinminbox/G2G)
+[Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https://doi.org/10.1145/3581783.3612074), ACM MM 2023 [[code]](https://github.com/Jinminbox/G2G)
 
 [Few-shot Multimodal Sentiment Analysis Based on Multimodal Probabilistic Fusion Prompts](https://doi.org/10.1145/3581783.3612181), ACM MM 2023 [[code]](https://github.com/YangXiaocui1215/ MultiPoint)
 
-[AcFormer: An Aligned and Compact Transformer for Multimodal Sentiment Analysis](https://doi.org/10.1145/ 3581783.3611974), ACM MM 2023 [[code]](https://github.com/dingchaoyue/AcFormer)
+[AcFormer: An Aligned and Compact Transformer for Multimodal Sentiment Analysis](https://doi.org/10.1145/3581783.3611974), ACM MM 2023 [[code]](https://github.com/dingchaoyue/AcFormer)
 
 [Building Robust Multimodal Sentiment Recognition via a Simple yet Effective Multimodal Transformer](https://doi.org/10.1145/3581783.3612872), ACM MM 2023 [[code]](https://github.com/dingchaoyue/Multimodal- Emotion-Recognition-MER-and-MuSe-2023-Challenges)
 
