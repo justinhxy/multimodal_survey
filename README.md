@@ -172,7 +172,7 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation](https://doi.org/10.1109/TPAMI.2023.3234553), TPAMI 2023 [[code]](https://github.com/zeroQiaoba/GCNet)
 
-[Multimodal Prompting with Missing Modalities for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Multimodal_Prompting_With_Missing_Modalities_for_Visual_Recognition_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/YiLunLee/missing aware prompts)
+[Multimodal Prompting with Missing Modalities for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Multimodal_Prompting_With_Missing_Modalities_for_Visual_Recognition_CVPR_2023_paper.html), CVPR 2023 
 
 [A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://arxiv.org/abs/2102.03014), AISTATS 2021 [[code]](https://github.com/chl8856/DeepIMV)
 
