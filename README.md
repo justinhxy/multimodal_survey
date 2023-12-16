@@ -108,8 +108,6 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Dif-Fusion: Toward High Color Fidelity in Infrared and Visible Image Fusion With Diffusion Models](https://github.com/GeoVectorMatrix/Dif-Fusion), TIP 2023 [[code]](https://doi.org/10.48550/arXiv.2301.08072)
 
-[](), [[code]]()
-
 [Channel Exchanging Networks for Multimodal and Multitask Dense Image Prediction](https://doi.org/10.1109/TPAMI.2022.3211086), TPAMI 2023 [[code]](https://github.com/yikaiw/CEN)
 
 [Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
@@ -174,9 +172,14 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation](https://doi.org/10.1109/TPAMI.2023.3234553), TPAMI 2023 [[code]](https://github.com/zeroQiaoba/GCNet)
 
+[Multimodal Prompting with Missing Modalities for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Multimodal_Prompting_With_Missing_Modalities_for_Visual_Recognition_CVPR_2023_paper.html
+![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/f3cbe67a-112e-4568-b248-4f37df0056b7)
+), CVPR 2023 [[code]](https://github.com/YiLunLee/missing aware prompts)
+
 [A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://arxiv.org/abs/2102.03014), AISTATS 2021 [[code]](https://github.com/chl8856/DeepIMV)
 
 [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
+
 
 
 
