@@ -1,4 +1,4 @@
-![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/a64a9082-9e4b-41d7-bfd5-5695eb6dd6e4)# 多模态学习调研
+![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/56bd082d-ccb4-4b21-9fc4-17766c57ea2d)![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/11b9c873-2121-4ccf-83ca-dec73e37e467)![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/a64a9082-9e4b-41d7-bfd5-5695eb6dd6e4)# 多模态学习调研
 
 By Xiangyang HU(232050209@hdu.edu.cn)
 
@@ -10,6 +10,7 @@ By Xiangyang HU(232050209@hdu.edu.cn)
   * [多模态融合（Multimodal Fusion）](#多模态融合multimodal-fusion)
   * [多模态对齐（Multimodal Alignment）](#多模态对齐multimodal-alignment)
   * [多模态预训练（Multimodal Pretraining）](#多模态预训练multimodal-pretraining)
+  * [多模态分割（Multimodal Segmentation）](#多模态分割multimodal-segmentation)
   * [多模态翻译（Multimodal Translation）](#多模态翻译multimodal-translation)
   * [跨模态检索（Crossmodal Retrieval）](#跨模态检索crossmodal-retrieval)
   * [多模态共同学习（Multimodal Co-learning）](#多模态共同学习multimodal-colearning)
@@ -17,11 +18,14 @@ By Xiangyang HU(232050209@hdu.edu.cn)
   * [多模态模型分析（Analysis of Multimodal Models）](#多模态模型分析analysis-of-multimodal-models)
   * [多模态聚类（Cluster of Multimodal Models）](#多模态聚类cluster-of-multimodal-models)
   * [多模态推理（Reason of Multimodal Models）](#多模态推理reason-of-multimodal-models)
+  * [多模态情感（Multimodal Emotion）](#多模态情感multimodal-emotion)
   * [知识图谱（Knowledge Graphs and Knowledge Bases）](#知识图谱knowledge-graphs-and-knowledge-bases)
   * [可解释的学习（Intepretable Learning）](#可解释的学习intepretable-learning)
   * [生成学习（Generative Learning）](#生成学习generative-learning)
   * [半监督学习（Semi-supervised Learning）](#半监督学习semi-supervised-learning)
   * [自监督学习（Self-supervised Learning）](#自监督学习self-supervised-learning)
+  * [点云（PointCloud）](#点云Point-Cloud)
+  * [对比学习（Contrastive Learning）](#对比学习contrastive-learning)
   * [语言模型（Language Models）](#语言模型language-models)
   * [对抗学习（Adversarial Attacks）](#对抗学习adversarial-attacks)
   * [少样本学习（Few-Shot Learning）](#少样本学习few-shot-learning)
@@ -130,6 +134,10 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Interpretable Multi-Modal Image Registration Network Based on Disentangled Convolutional Sparse Coding](https://doi.org/10.1109/TIP.2023.3240024), TIP 2023 [[code]](https://github.com/lep990816/Interpretable- Multi-modal-Image-Registration)
 
+[OSAN: A One-Stage Alignment Network to Unify Multimodal Alignment and Unsupervised Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_OSAN_A_One-Stage_Alignment_Network_To_Unify_Multimodal_Alignment_and_CVPR_2023_paper.html), CVPR 2023
+
+[MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Sadoughi_MEGA_Multimodal_Alignment_Aggregation_and_Distillation_For_Cinematic_Video_Segmentation_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/ppapalampidi/GraphTP)
+
 [Reconsidering Representation Alignment for Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2021/html/Trosten_Reconsidering_Representation_Alignment_for_Multi-View_Clustering_CVPR_2021_paper.html), CVPR 2021 [[code]](https://github.com/DanielTrosten/mvc)
 
 [CoMIR: Contrastive Multimodal Image Representation for Registration](https://arxiv.org/pdf/2006.06325.pdf), NeurIPS 2020 [[code]](https://github.com/MIDA-group/CoMIR)
@@ -139,15 +147,25 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ReVeaL-CVPR/ReVeaL-CVPR.github.io)
 
+[Enhancing Sentence Representation with Visually-supervised Multimodal Pre-training](https://doi.org/10.1145/3581783.3612254), ACM MM 2023 [[code]](https://github.com/gentlefress/ViP)
+
 [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
 
 [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
 
 [Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer](https://arxiv.org/abs/2102.10772), arXiv 2021
 
+### 多模态分割（Multimodal Segmentation）
 
+[Multimodal Variational Auto-encoder based Audio-Visual Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Mao_Multimodal_Variational_Auto-encoder_based_Audio-Visual_Segmentation_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/OpenNLPLab/MMVAE-AVS)
+
+[MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Sadoughi_MEGA_Multimodal_Alignment_Aggregation_and_Distillation_For_Cinematic_Video_Segmentation_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/ppapalampidi/GraphTP)
+
+[M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2303.05302), AAAI 2023 [[code]](https://github.com/ccarliu/m3ae)
 
 ### 多模态翻译（Multimodal Translation）
+
+[CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation](https://openaccess.thecvf.com/content/ICCV2023/html/Gupta_CLIPTrans_Transferring_Visual_Knowledge_with_Pre-trained_Models_for_Multimodal_Machine_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/devaansh100/CLIPTrans)
 
 [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092), ICML 2021 [[code]](https://github.com/openai/DALL-E)
 
@@ -178,6 +196,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Multimodal Prompting with Missing Modalities for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Multimodal_Prompting_With_Missing_Modalities_for_Visual_Recognition_CVPR_2023_paper.html), CVPR 2023 
 
+[M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2303.05302), AAAI 2023 [[code]](https://github.com/ccarliu/m3ae)
+
 [A Variational Information Bottleneck Approach to Multi-Omics Data Integration](https://arxiv.org/abs/2102.03014), AISTATS 2021 [[code]](https://github.com/chl8856/DeepIMV)
 
 [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
@@ -199,12 +219,37 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Experts Collaboration Learning for Continual Multi-Modal Reasoning](https://doi.org/10.1109/TIP.2023.3310336), TIP 2023
 
+### 多模态情感（Multimodal Emotion）
+
+[Sensing Micro-Motion Human Patterns using Multimodal mmRadar and Video Signal for Affective and Psychological Intelligence](https://doi.org/10.1145/3581783.3611754), ACM MM 2023 [[code]](https://remap-dataset.github.io/ReMAP)
+
+[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https: //doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
+
+[MEDIC: A Multimodal Empathy Dataset in Counseling](https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
+
+[Multi-label Emotion Analysis in Conversation via Multimodal Knowledge Distillation](https: //doi.org/10.1145/3581783.3612517), ACM MM 2023 [[code]](https://github.com/devulapa/multimodal-emotion-recognition)
+
+[General Debiasing for Multimodal Sentiment Analysis](https://doi.org/10.1145/3581783.3612051), ACM MM 2023 [[code]](https://github.com/Teng-Sun/GEAR)
+
+[Mining High-quality Samples from Raw Data and Majority Voting Method for Multimodal Emotion Recognition](https://doi.org/10.1145/3581783.3612862), ACM MM 2023 
+
+[Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https: //doi.org/10.1145/3581783.3612074), ACM MM 2023 [[code]](https://github.com/Jinminbox/G2G)
+
+[Few-shot Multimodal Sentiment Analysis Based on Multimodal Probabilistic Fusion Prompts](https://doi.org/10.1145/3581783.3612181), ACM MM 2023 [[code]](https://github.com/YangXiaocui1215/ MultiPoint)
+
+[AcFormer: An Aligned and Compact Transformer for Multimodal Sentiment Analysis](https://doi.org/10.1145/ 3581783.3611974), ACM MM 2023 [[code]](https://github.com/dingchaoyue/AcFormer)
+
+[Building Robust Multimodal Sentiment Recognition via a Simple yet Effective Multimodal Transformer](https://doi.org/10.1145/3581783.3612872), ACM MM 2023 [[code]](https://github.com/dingchaoyue/Multimodal- Emotion-Recognition-MER-and-MuSe-2023-Challenges)
+
 ### 知识图谱（Knowledge Graphs and Knowledge Bases）
+
+[Joint Multimodal Entity-Relation Extraction Based on Edge-Enhanced Graph Alignment Network and Word-Pair Relation Tagging](https://ojs.aaai.org/index.php/AAAI/article/view/26309), AAAI 2023 [[code]](https://github.com/YuanLi95/EEGA-for-JMERE)
+
+[TIVA-KG: A Multimodal Knowledge Graph with Text, Image, Video and Audio](https://doi.org/10.1145/3581783.3612266), ACM MM 2023 [[code]](http://mn.cs.tsinghua.edu.cn/tivakg)
 
 [MMKG: Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485), ESWC 2019
 
 [Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs](https://arxiv.org/abs/1709.02314), AKBC 2019
-
 
 ### 可解释的学习（Intepretable Learning）
 
@@ -220,6 +265,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises](https://openreview.net/forum?id=sdQGxouELX), ICLR 2023 [[code]](https://github.com/epalu/mmvaeplus)
 
+[Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning](https://doi.org/10.1145/3581783.3612108), ACM MM 2023 [[code]](https://github.com/sf-zhai/BadT2I)
+
 [On the Limitations of Multimodal VAEs](https://arxiv.org/abs/2110.04121), ICLR 2022 [[code]](https://openreview.net/attachment?id=w-CPUXXrAj&name=supplementary_material)
 
 [Generalized Multimodal ELBO](https://openreview.net/forum?id=5Y21V0RDBV), ICLR 2021 [[code]](https://github.com/thomassutter/MoPoE)
@@ -229,6 +276,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 ### 半监督学习（Semi-supervised Learning）
 
 [Supervised Phenotype Discovery From Multimodal Brain Imaging](https://doi.org/10.1109/TMI.2022.3218720), TMI 2023 [[code]](https://github.com/ weikanggong/SuperBigFLICA)
+
+[Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Harvard_Glaucoma_Detection_and_Progression_A_Multimodal_Multitask_Dataset_and_ICCV_2023_paper.html), ICCV 2023 [[code]](https://ophai.hms.harvard.edu/ datasets/harvard-gdp1000)
 
 [Semi-supervised Vision-language Mapping via Variational Learning](https://ieeexplore.ieee.org/document/7989160), ICRA 2017
 
@@ -240,6 +289,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Self-Supervised_Learning_for_Multimodal_Non-Rigid_3D_Shape_Matching_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ dongliangcao/Self-Supervised-Multimodal-Shape-Matching)
 
+[Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html), CVPR 2023 [[code]](https : //github . com / paulhager / MMCL - Tabular - Imaging)
+
 [DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021 Datasets & Benchmarks Track [[code]](https://github.com/alextamkin/dabs)
 
 [Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://arxiv.org/abs/1911.12667), NeurIPS 2020 [[code]](https://github.com/HumamAlwassel/XDC)
@@ -248,7 +299,21 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Labelling Unlabelled Videos from Scratch with Multi-modal Self-supervision](https://arxiv.org/abs/2006.13662), NeurIPS 2020 [[code]](https://www.robots.ox.ac.uk/~vgg/research/selavi/)
 
+### 对比学习（Contrastive Learning）
 
+[Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Revisiting_Multimodal_Representation_in_Contrastive_Learning_From_Patch_and_Token_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ yuxiaochen1103/FDT)
+
+[Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/paulhager/MMCL-Tabular-Imaging)
+
+[AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https: //doi.org/10.1145/3581783.3612454), ACM MM 2023 [[code]](https://github.com/CGCL-codes/AdvCLIP)
+
+[Cross-modal Contrastive Learning for Multimodal Fake News Detection](https://doi.org/10.1145/3581783.3613850), ACM MM 2023 [[code]](https://github.com/wishever/COOLANT)
+
+### 点云（Point Cloud）
+
+[3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_3D_Spatial_Multimodal_Knowledge_Accumulation_for_Scene_Graph_Prediction_in_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/HHrEtvP/SMKA)
+
+[RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation](https://openaccess.thecvf.com/content/ICCV2023/html/Wan_RPEFlow_Multimodal_Fusion_of_RGB-PointCloud-Event_for_Joint_Optical_Flow_and_ICCV_2023_paper.html), ICCV 2023 [[code]](https://npucvr.github.io/RPEFlow)
 
 ### 语言模型（Language Models）
 
@@ -366,9 +431,13 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [AutoEncoder-Driven Multimodal Collaborative Learning for Medical Image Synthesis](https://doi.org/10.1007/s11263-023-01791-0), IJCV 2023 [[code]](https://github.com/bcaosudo/AE-GAN)
 
+[Harvard Glaucoma Detection and Progression: A Multimodal Multitask Dataset and Generalization-Reinforced Semi-Supervised Learning](https://openaccess.thecvf.com/content/ICCV2023/html/Luo_Harvard_Glaucoma_Detection_and_Progression_A_Multimodal_Multitask_Dataset_and_ICCV_2023_paper.html), ICCV 2023 [[code]](https://ophai.hms.harvard.edu/ datasets/harvard-gdp1000)
+
+[M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/abs/2303.05302), AAAI 2023 [[code]](https://github.com/ccarliu/m3ae)
+
 ### 识别(Recognition)
 
-#### 人体动作识别
+#### 动作识别
 
 [MMNet: A Model-Based Multimodal Network for Human Action Recognition in RGB-D Videos](https://doi.org/10.1109/TPAMI.2022.3177813), TPAMI 2023
 
@@ -376,14 +445,33 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Cross-scale cascade transformer for multimodal human action recognition](https://doi.org/10.1016/j.patrec.2023.02.024), PRL 2023
 
-#### 情绪识别
+[Multimodal Distillation for Egocentric Action Recognition](https://openaccess.thecvf.com/content/ICCV2023/html/Mao_Multimodal_Variational_Auto-encoder_based_Audio-Visual_Segmentation_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/gorjanradevski/multimodal-distillation)
+
+#### 情感识别
 
 [Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023
 
 [Multimodal Continuous Emotion Recognition: A Technical Report for ABAW5](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/html/Zhang_Multimodal_Continuous_Emotion_Recognition_A_Technical_Report_for_ABAW5_CVPRW_2023_paper.html), CVPR 2023 [[code]](https://github.com/sucv/ABAW3)
 
+[Decoupled Multimodal Distilling for Emotion Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Decoupled_Multimodal_Distilling_for_Emotion_Recognition_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/mdswyz/DMD)
+
+[Revisiting Disentanglement and Fusion on Modality and Context in Conversational Multimodal Emotion Recognition](https://doi.org/10.1145/3581783.3612053), ACM MM 2023 [[code]](https://github.com/something678/TodKat)
+
+[Mining High-quality Samples from Raw Data and Majority Voting Method for Multimodal Emotion Recognition](https://doi.org/10.1145/3581783.3612862), ACM MM 2023 
+
+[Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https: //doi.org/10.1145/3581783.3612074), ACM MM 2023 [[code]](https://github.com/Jinminbox/G2G)
+
+[Building Robust Multimodal Sentiment Recognition via a Simple yet Effective Multimodal Transformer](https://doi.org/10.1145/3581783.3612872), ACM MM 2023 [[code]](https://github.com/dingchaoyue/Multimodal- Emotion-Recognition-MER-and-MuSe-2023-Challenges)
+
+
 #### 生物识别
 [Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 [[code]](https://doi.org/10.1109/TMM.2021.3132166)
+
+#### 多模态命名实体识别（MNER）
+
+[Fine-Grained Multimodal Named Entity Recognition and Grounding with a Generative Framework](https://doi.org/10.1145/3581783.3612322), ACM MM 2023 [[code]](https://github.com/NUSTM/FMNERG.)
+
+[MCG-MNER: A Multi-Granularity Cross-Modality Generative Framework for Multimodal NER with Instruction](https://doi.org/10.1145/3581783.3612470), ACM MM 2023 [[code]](https://github.com/jetwu-create/MCG-MNER)
 
 ### 检测（Detection）
 
@@ -393,19 +481,33 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Weakly Aligned Multimodal Flame Detection for Fire-Fighting Robots](https://doi.org/10.1109/TII.2022.3158668), TII 2023 
 
+[Virtual Sparse Convolution for Multimodal 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Virtual_Sparse_Convolution_for_Multimodal_3D_Object_Detection_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/hailanyi/VirConv)
+
+[Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/aleflabo/MoCoDAD)
+
 ### 预测（Prediction）
 
 [Micro-Video Popularity Prediction Via Multimodal Variational Information Bottleneck](https://doi.org/10.1109/TMM.2021.3120537), TMM 2023 [[code]](https://github.com/JennyXieJiayi/HMMVED)
 
-#### 癌症生存预测
+[Causal Conditional Hidden Markov Model for Multimodal Traffic Prediction](https://arxiv.org/abs/2301.08249), AAAI 2023 [[code]](https://github.com/EternityZY/CCHMM)
+
+#### 生存预测
 
 [Hybrid Graph Convolutional Network With Online Masked Autoencoder for Robust Multimodal Cancer Survival Prediction](https://doi.org/10.1109/TMI.2023.3253760), TMI 2023 [[code]](https://github.com/lin- lcx/HGCN)
 
 [Survival Prediction via Hierarchical Multimodal Co-Attention Transformer: A Computational Histology-Radiology Solution](https://doi.org/10.1109/TMI.2023.3263010), TMI 2023 
 
+[Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction](https://arxiv.org/abs/2306.08330), ICCV 2023 [[code]](https://github.com/Innse/MOTCat)
+
 ### 推荐算法（Recommendation）
 
 [DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://doi.org/10.1109/TMM.2021.3138298), TMM 2023 [[code]](https://github.com/wqf321/dualgnn)
+
+[Semantic-Guided Feature Distillation for Multimodal Recommendation](https://doi.org/10.1145/3581783.3611886), ACM MM 2023 [[code]](https://github.com/HuilinChenJN/SGFD)
+
+[A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation](https://doi.org/10.1145/3581783.3611943), ACM MM 2023 [[code]](https://github.com/enoche/FREEDOM)
+
+[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://doi.org/10.1145/ 3581783.3613458), ACM MM 2023 [[code]](https://github.com/sisinflab/Ducho)
 
 
 ### 生成（Recommendation）
@@ -418,6 +520,24 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Sentimental Visual Captioning using Multimodal Transformer](https://doi.org/10.1007/s11263-023-01752-7), IJCV 2023 [[code]](https:// github.com/ezeli/InSentiCap_ext)
 
+[SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html), CVPR 2023 [[code]](https://yccyenchicheng.github.io/SDFusion/)
+
 ### 数据集（Dataset）
 
 [Animal Pose Tracking: 3D Multimodal Dataset and Token-based Pose Optimization](https://doi.org/10.1007/s11263-022-01714-5), IJCV 2023 
+
+[The MONET dataset: Multimodal drone thermal dataset recorded in rural scenarios](https://openaccess.thecvf.com/content/CVPR2023W/MULA/html/Riz_The_MONET_Dataset_Multimodal_Drone_Thermal_Dataset_Recorded_in_Rural_CVPRW_2023_paper.html), CVPRW 2023 [[code]](https: //github.com/fabiopoiesi/monet_dataset)
+
+[Lecture Presentations Multimodal Dataset: Towards Understanding Multimodality in Educational Videos](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Lecture_Presentations_Multimodal_Dataset_Towards_Understanding_Multimodality_in_Educational_Videos_ICCV_2023_paper.html), ICCV 2023 [[code]](https://github.com/dondongwon/LPMDataset)
+
+[Zenseact Open Dataset: A large-scale and diverse multimodal dataset for autonomous driving](https://openaccess.thecvf.com/content/ICCV2023/html/Alibeigi_Zenseact_Open_Dataset_A_Large-Scale_and_Diverse_Multimodal_Dataset_for_ICCV_2023_paper.html), ICCV 2023 [[code]](https://zod.zenseact.com/)
+
+[Decoding the Underlying Meaning of Multimodal Hateful Memes](https://arxiv.org/abs/2305.17678), IJCAI 2023 [[code]](https://github.com/Social-AI-Studio/HatRed)
+
+[FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms](https://ojs.aaai.org/index.php/AAAI/article/view/26689), AAAI 2023 [[code]](https://github.com/ICTMCG/FakeSV)
+
+[Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https: //doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
+
+[MEDIC: A Multimodal Empathy Dataset in Counseling](https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
+
+[ChinaOpen: A Dataset for Open-world Multimodal Learning](https://doi.org/ 10.1145/3581783.3612156), ACM MM 2023 [[code]](https://ruc-aimc-lab.github.io/ChinaOpen/)
