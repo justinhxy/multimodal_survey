@@ -1,4 +1,4 @@
-# 多模态学习调研
+![image](https://github.com/justinhxy/multimodal_survey/assets/136664877/a64a9082-9e4b-41d7-bfd5-5695eb6dd6e4)# 多模态学习调研
 
 By Xiangyang HU(232050209@hdu.edu.cn)
 
@@ -110,6 +110,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Channel Exchanging Networks for Multimodal and Multitask Dense Image Prediction](https://doi.org/10.1109/TPAMI.2022.3211086), TPAMI 2023 [[code]](https://github.com/yikaiw/CEN)
 
+[Dynamic Multimodal Fusion](https://openaccess.thecvf.com/content/CVPR2023W/MULA/html/Xue_Dynamic_Multimodal_Fusion_CVPRW_2023_paper.html), CVPRW 2023 [[code]](https://github.com/zihuixue/ DynMM)
+
 [Robust Contrastive Learning against Noisy Views](https://arxiv.org/abs/2201.04309), arXiv 2022
 
 [Cooperative Learning for Multi-view Analysis](https://arxiv.org/abs/2112.12337), arXiv 2022
@@ -134,6 +136,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 ### 多模态预训练（Multimodal Pretraining）
 [End-to-End Pre-Training With Hierarchical Matching and Momentum Contrast for Text-Video Retrieval](https://doi.org/10.1109/TIP.2023.3275071), TIP 2023 [[code]](https://github.com/cheetah003/HMMC)
+
+[REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ReVeaL-CVPR/ReVeaL-CVPR.github.io)
 
 [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/abs/2107.07651), NeurIPS 2021 Spotlight [[code]](https://github.com/salesforce/ALBEF)
 
@@ -233,6 +237,8 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 
 ### 自监督学习（Self-supervised Learning）
+
+[Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Self-Supervised_Learning_for_Multimodal_Non-Rigid_3D_Shape_Matching_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ dongliangcao/Self-Supervised-Multimodal-Shape-Matching)
 
 [DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning](https://arxiv.org/abs/2111.12062), NeurIPS 2021 Datasets & Benchmarks Track [[code]](https://github.com/alextamkin/dabs)
 
@@ -372,7 +378,9 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 #### 情绪识别
 
-[Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 
+[Multi-Channel Weight-Sharing Autoencoder Based on Cascade Multi-Head Attention for Multimodal Emotion Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023
+
+[Multimodal Continuous Emotion Recognition: A Technical Report for ABAW5](https://openaccess.thecvf.com/content/CVPR2023W/ABAW/html/Zhang_Multimodal_Continuous_Emotion_Recognition_A_Technical_Report_for_ABAW5_CVPRW_2023_paper.html), CVPR 2023 [[code]](https://github.com/sucv/ABAW3)
 
 #### 生物识别
 [Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition](https://doi.org/10.1109/TMM.2022.3144885), TMM 2023 [[code]](https://doi.org/10.1109/TMM.2021.3132166)
