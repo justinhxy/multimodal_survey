@@ -203,8 +203,6 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 [SMIL: Multimodal Learning with Severely Missing Modality](https://arxiv.org/abs/2103.05677), AAAI 2021
 
 
-
-
 ### 多模态模型分析（Analysis of Multimodal Models）
 
 [M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis](https://arxiv.org/abs/2107.08264), IEEE TVCG 2022
@@ -305,9 +303,9 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/paulhager/MMCL-Tabular-Imaging)
 
-[AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https: //doi.org/10.1145/3581783.3612454), ACM MM 2023 [[code]](https://github.com/CGCL-codes/AdvCLIP)
+[AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https://doi.org/10.1145/3581783.3612454), ACM MM 2023 [[code]](https://github.com/CGCL-codes/AdvCLIP)
 
-[Cross-modal Contrastive Learning for Multimodal Fake News Detection] (https://dl.acm.org/doi/10.1145/3581783.3613850), ACM MM 2023 [[code]](https://github.com/wishever/COOLANT)
+[Cross-modal Contrastive Learning for Multimodal Fake News Detection](https://dl.acm.org/doi/10.1145/3581783.3613850), ACM MM 2023 [[code]](https://github.com/wishever/COOLANT)
 
 ### 点云（Point Cloud）
 
