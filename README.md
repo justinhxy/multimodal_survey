@@ -307,7 +307,7 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning](https: //doi.org/10.1145/3581783.3612454), ACM MM 2023 [[code]](https://github.com/CGCL-codes/AdvCLIP)
 
-[Cross-modal Contrastive Learning for Multimodal Fake News Detection](https://doi.org/10.1145/3581783.3613850), ACM MM 2023 [[code]](https://github.com/wishever/COOLANT)
+[Cross-modal Contrastive Learning for Multimodal Fake News Detection] (https://dl.acm.org/doi/10.1145/3581783.3613850), ACM MM 2023 [[code]](https://github.com/wishever/COOLANT)
 
 ### 点云（Point Cloud）
 
@@ -538,6 +538,6 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https: //doi.org/10.1145/3581783.3613797), ACM MM 2023 [[code]](https://github.com/935963004/MAET)
 
-[MEDIC: A Multimodal Empathy Dataset in Counseling](https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
+[MEDIC: A Multimodal Empathy Dataset in Counseling] (https://doi.org/10.1145/3581783.3612346), ACM MM 2023 [[code]](https://ustc-ac.github.io/datasets/medic/)
 
 [ChinaOpen: A Dataset for Open-world Multimodal Learning](https://doi.org/ 10.1145/3581783.3612156), ACM MM 2023 [[code]](https://ruc-aimc-lab.github.io/ChinaOpen/)
