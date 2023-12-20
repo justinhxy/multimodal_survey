@@ -299,7 +299,7 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 ### 对比学习（Contrastive Learning）
 
-[Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Revisiting_Multimodal_Representation_in_Contrastive_Learning_From_Patch_and_Token_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/ yuxiaochen1103/FDT)
+[Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Revisiting_Multimodal_Representation_in_Contrastive_Learning_From_Patch_and_Token_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/yuxiaochen1103/FDT)
 
 [Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data](https://openaccess.thecvf.com/content/CVPR2023/html/Hager_Best_of_Both_Worlds_Multimodal_Contrastive_Learning_With_Tabular_and_CVPR_2023_paper.html), CVPR 2023 [[code]](https://github.com/paulhager/MMCL-Tabular-Imaging)
 
