@@ -72,6 +72,27 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [A Survey of Socially Interactive Robots](https://www.cs.cmu.edu/~illah/PAPERS/socialroboticssurvey.pdf), 2003
 
+### 医学多模态综述
+
+[Multimodal biomedical AI](https://doi.org/10.1038/s41591-022-01981-2), 2022 Nature medicine
+
+[A Review of the Application of Multi-modal Deep Learning in Medicine: Bibliometrics and Future Directions](https://link.springer.com/article/10.1007/s44196-023-00225-6), 2023 International Journal of Computationallntelligence Systems
+
+[Survey on deep learning in multimodal medical imaging for cancer detection](https://doi.org/10.1007/s00521-023-09214-4), 2023 Neural Computing and Applications
+
+[A review on multimodal medical image fusion: Compendious analysis of  medical modalities, multimodal databases, fusion techniques and  quality metrics](https://doi.org/10.1016/j.compbiomed.2022.105253), 2022 Computers in Biology and Medicine
+
+[Integration of deep learning-based image analysis and genomic data in cancer pathology: A systematic review](https://doi.org/10.1016/j.ejca.2021.10.007), 2022 ScienceDirect
+
+[医学图像融合方法综述](http://www.cjig.cn/html/2023/1/20230107.htm), 2023 中国图像图形学报
+
+### 图像融合综述
+
+[Multispectral and hyperspectral image fusion in remote sensing: A survey Gemine Vivone](https://doi.org/10.1016/j.inffus.2022.08.032), 2023 Information Fusion
+
+[Current advances and future perspectives of image fusion: A comprehensive review](https://doi.org/10.1016/j.inffus.2022.09.019), 2023 Information Fusion
+
+
 ## 核心领域
 
 ### 多模态表示（Multimodal Representations）
