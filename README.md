@@ -86,6 +86,17 @@ By Xiangyang HU(232050209@hdu.edu.cn)
 
 [医学图像融合方法综述](http://www.cjig.cn/html/2023/1/20230107.htm), 2023 中国图像图形学报
 
+[A review on multimodal machine learning in medical diagnostics](http://dx.doi.org/10.3934/mbe.2023382), 2023 MBE
+
+[Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology](https://www.techrxiv.org/users/684383/articles/678856-beyond-medical-imaging-a-review-of-multimodal-deep-learning-in-radiology), 2023 techrxiv
+
+[An overview of deep learning methods for multimodal medical data mining](https://doi.org/10.1016/j.eswa.2022.117006), 2022 Expert Systems With Applications
+
+[Deep learning in multimodal medical imaging for cancer detection](https://doi.org/10.1007/s00521-023-08955-6), 2022 Neural Computing and Applications
+
+[Machine Learning in Multimodal Medical Imaging](https://doi.org/10.1155/2017/1278329), 2017 BioMed Research International
+
+
 ### 图像融合综述
 
 [Multispectral and hyperspectral image fusion in remote sensing: A survey Gemine Vivone](https://doi.org/10.1016/j.inffus.2022.08.032), 2023 Information Fusion
